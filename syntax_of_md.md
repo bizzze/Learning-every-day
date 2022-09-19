@@ -133,7 +133,7 @@ image는 위 링크 양식 앞에 !만 붙입니다!
 
 # 수정본
 
-**list는 markdown 문서로 보면 inner 요소로 보인다.**
+**list는 markdown 문서로 보면 inner 요소로 보인다.**<br>
 그러니까, 단락은 h1이나 강조로 나누고, 안에 item을 정리할 때, list를 쓰자!
 
 - h1 양식 사용 시, 띄어쓰기!!
